@@ -9,7 +9,7 @@
 
 - 💬 Built some projects in **Java, Js, React, Python, Flutter, R, Php**
 
-- 📚 Willing to learn ** absolutely anything**
+- 📚 Willing to learn **absolutely anything :)**
 
 - 📫 How to reach me **komellara@gmail.com**
 
