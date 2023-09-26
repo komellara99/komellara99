@@ -1,10 +1,10 @@
 
 <h1 align="center">Hi 👋🏻, I'm Lara!</h1>
-<h3 align="center">A computer science student at University of Primorska.</h3>
+<h3 align="center">A developer and computer science graduate.</h3>
 
-- 🔭 I’m currently working on **Covid19 tracker in rShiny**
+- 🔭 I’m currently working on **Mobile app for book lovers in Flutter**
 
-- 🌱 I’m currently learning **React, MERN stack**
+- 🌱 I’m currently learning **React, MERN stack, Flutter**
 
 - 💬 Built some projects in **Java, Js, React, Python, Flutter, R, Php**
 
